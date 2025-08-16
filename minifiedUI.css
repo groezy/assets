@@ -82,7 +82,6 @@ div:not(:hover) > .members_c8ffbb > div {
 }
 
 .infoSection__0f2e8 {
-    transition: opacity 0.5s ease;
 }
 
 .membersWrap_c8ffbb:not(:hover) .infoSection__0f2e8 {
@@ -91,7 +90,6 @@ div:not(:hover) > .members_c8ffbb > div {
 
 /* Fade out usernames when collapsed */
 .content__91a9d {
-    transition: opacity 0.5s ease;
 }
 
 .membersWrap_c8ffbb:not(:hover) .content__91a9d {
