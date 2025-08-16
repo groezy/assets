@@ -73,11 +73,11 @@ div:not(:hover) > .members_c8ffbb > div {
 
 .membersWrap_c8ffbb:not(:hover) .container__0f2e8 {
     background-color: #000f;
-    border-color: none;
+    border-color: #000f;
 }
 
 .container__7641b {
-    background: none !important;
+    background: black !important;
     border: none !important;
 }
 
@@ -86,7 +86,7 @@ div:not(:hover) > .members_c8ffbb > div {
 }
 
 .membersWrap_c8ffbb:not(:hover) .infoSection__0f2e8 {
-    opacity: 0;
+    opacity: 255;
 }
 
 /* Fade out usernames when collapsed */
@@ -95,7 +95,7 @@ div:not(:hover) > .members_c8ffbb > div {
 }
 
 .membersWrap_c8ffbb:not(:hover) .content__91a9d {
-    opacity: 0;
+    opacity: 255;
 }
 
 /* Fix the member count addon (vencord) */
