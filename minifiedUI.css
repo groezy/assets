@@ -20,7 +20,7 @@ div:not(:hover) > .members_c8ffbb > div {
 }
 
 .members_c8ffbb {
-    background-color: #0000;
+    background-color: #000f;
     transition: 0.5s ease;
 }
 
@@ -32,11 +32,11 @@ div:not(:hover) > .members_c8ffbb > div {
 
 /*We could for instance let user control the color via a css var*/
 .theme-light .members_c8ffbb:hover {
-    background: linear-gradient(90deg, rgba(255, 255, 255, 1) 0%, rgba(255, 255, 255, 1) 30%, rgba(255, 255, 255, 0) 100%);
+    background: linear-gradient(90deg, rgba(255, 255, 255, 255) 0%, rgba(255, 255, 255, 255) 30%, rgba(255, 255, 255, 255) 100%);
 }
 
 .theme-dark .members_c8ffbb:hover {
-    background: linear-gradient(90deg, rgba(0, 0, 0, 1) 0%, rgba(0, 0, 0, 1) 30%, rgba(0, 0, 0, 0) 100%);
+    background: linear-gradient(90deg, rgba(0, 0, 0, 255) 0%, rgba(0, 0, 0, 255) 30%, rgba(0, 0, 0, 255) 100%);
 }
 
 /* Make the list fill the window height */
@@ -54,7 +54,7 @@ div:not(:hover) > .members_c8ffbb > div {
 }
 
 .member__5d473 {
-    background-color: #000000;
+    background-color: #000f;
 }
 
 /* Member list activity widget */
@@ -72,12 +72,12 @@ div:not(:hover) > .members_c8ffbb > div {
 }
 
 .membersWrap_c8ffbb:not(:hover) .container__0f2e8 {
-    background-color: #000000;
-    border-color: #000000;
+    background-color: #000f;
+    border-color: transparent;
 }
 
 .container__7641b {
-    background: #000000 !important;
+    background: transparent !important;
     border: none !important;
 }
 
