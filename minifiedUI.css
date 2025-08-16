@@ -54,7 +54,7 @@ div:not(:hover) > .members_c8ffbb > div {
 }
 
 .member__5d473 {
-    background-color: #000000;
+    background-color: opaque;
 }
 
 /* Member list activity widget */
@@ -72,7 +72,7 @@ div:not(:hover) > .members_c8ffbb > div {
 }
 
 .membersWrap_c8ffbb:not(:hover) .container__0f2e8 {
-    background-color: transparent;
+    background-color: opaque;
     border-color: transparent;
 }
 
