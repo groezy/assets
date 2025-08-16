@@ -73,11 +73,11 @@ div:not(:hover) > .members_c8ffbb > div {
 
 .membersWrap_c8ffbb:not(:hover) .container__0f2e8 {
     background-color: #000f;
-    border-color: transparent;
+    border-color: none;
 }
 
 .container__7641b {
-    background: transparent !important;
+    background: none !important;
     border: none !important;
 }
 
